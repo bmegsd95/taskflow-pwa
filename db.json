@@ -1,0 +1,17 @@
+{
+  "tareas": [
+    {
+      "id": "1",
+      "titulo": "Estudiar Vue 3",
+      "descripcion": "Repasar componentes, props y eventos.",
+      "completada": true
+    },
+    {
+      "titulo": "sacar a pasear a Rayo",
+      "descripcion": "sacar a rayo",
+      "completada": false,
+      "id": "YWW-XCu_4HQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
